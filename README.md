@@ -6,7 +6,7 @@ The junction box is an intermediate stage between the accumulator and inverter. 
 ![Render](images/Junctionbox3.JPG)
 
 ## Block Diagram
-![Render](images/VehicleJunctionBoxBlockDiagram.png)
+![Render](https://github.com/jeremynguyenn/VehicleJunctionBox/blob/main/images/VehicleJunctionBoxBlockDiagram.jpg)
 
 ## Current Sense MCU IO
 | Description  | IO |
